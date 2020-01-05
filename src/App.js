@@ -11,13 +11,14 @@ class App extends React.Component {
         this.audio = new Audio(soundfile);
     }
     componentDidMount() {
-        this.audio.play();
+        var playPromise = this.audio.play();
+        // playPromise;
         this.audio.addEventListener(
             "ended",
             function() {
                 this.audio = new Audio(soundfile);
                 this.currentTime = 0;
-                this.audio.play();
+                var playPromiseAgain = this.audio.play();
             },
             false
         );
