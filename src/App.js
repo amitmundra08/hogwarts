@@ -12,13 +12,22 @@ class App extends React.Component {
     }
     componentDidMount() {
         var playPromise = this.audio.play();
-        // playPromise;
+        playPromise
+            .then(() => {})
+            .catch(() => {
+                this.audio.play();
+            });
         this.audio.addEventListener(
             "ended",
             function() {
                 this.audio = new Audio(soundfile);
                 this.currentTime = 0;
                 var playPromiseAgain = this.audio.play();
+                playPromiseAgain
+                    .then(() => {})
+                    .catch(() => {
+                        this.audio.play();
+                    });
             },
             false
         );
