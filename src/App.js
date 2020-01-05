@@ -11,26 +11,18 @@ class App extends React.Component {
         this.audio = new Audio(soundfile);
     }
     componentDidMount() {
-        var playPromise = this.audio.play();
-        playPromise
-            .then(() => {})
-            .catch(() => {
-                this.audio.play();
-            });
-        this.audio.addEventListener(
-            "ended",
-            function() {
-                this.audio = new Audio(soundfile);
-                this.currentTime = 0;
-                var playPromiseAgain = this.audio.play();
-                playPromiseAgain
-                    .then(() => {})
-                    .catch(() => {
-                        this.audio.play();
-                    });
-            },
-            false
-        );
+        setTimeout(() => {
+            this.audio.play();
+            this.audio.addEventListener(
+                "ended",
+                function() {
+                    this.audio = new Audio(soundfile);
+                    this.currentTime = 0;
+                    this.audio.play();
+                },
+                false
+            );
+        }, 5000);
     }
     render() {
         return (
