@@ -8,7 +8,7 @@ import grifyImage from "../img/grify.gif";
 var backgroundImage = {
     width: "100%",
     height: "800px",
-    backgroundImage: "url('img/castleImage.jpg')",
+    backgroundImage: "url('img/background.jpg')",
     backgroundPosition: "center",
     backgroundSize: "cover",
     backgroundRepeat: "no-repeat",
