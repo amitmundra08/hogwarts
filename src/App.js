@@ -10,17 +10,19 @@ class App extends React.Component {
         super(props);
         this.audio = new Audio(soundfile);
     }
-    componentWillMount() {
-        this.audio.play();
-        this.audio.addEventListener(
-            "ended",
-            function() {
-                this.audio = new Audio(soundfile);
-                this.currentTime = 0;
-                this.audio.play();
-            },
-            false
-        );
+    componentDidMount() {
+        setTimeout(() => {
+            this.audio.play();
+            this.audio.addEventListener(
+                "ended",
+                function() {
+                    this.audio = new Audio(soundfile);
+                    this.currentTime = 0;
+                    this.audio.play();
+                },
+                false
+            );
+        }, 5000);
     }
     render() {
         return (
