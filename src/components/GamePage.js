@@ -53,8 +53,264 @@ class GamePage extends Component {
                     {
                         name: "Lokesh Daga",
                         house: "Slytherin",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Abhishek",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Aadi",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Darshan",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Foram",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Laksh",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Shaan",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Ved",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Heer",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Dhwani S",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Milonee",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Sneha",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Yashvi",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Pal",
+                        house: "Gryffindor",
+                        img: gryfindor
+                    },
+                    {
+                        name: "Dyash",
+                        house: "Slytherin",
                         img: slytherin
+                    },
+                    {
+                        name: "Harshil",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Nandan",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Tanmay P",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Rudraksh",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Tathagat",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Diwa R",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Ipsita",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Nandni",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Shrinali",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Stuti",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Nirva",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Rutvi",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Pearl",
+                        house: "Slytherin",
+                        img: slytherin
+                    },
+                    {
+                        name: "Aditya",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Bhavishya",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Hutarth",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Jash",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Manas",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Tanmay S",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Vishad",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Kashvi",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Jahaan",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Paree",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Preeti",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Viva",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Prapti",
+                        house: "Hufflepuff",
+                        img: huffflepuff
+                    },
+                    {
+                        name: "Dhruvil",
+                        house: "Ravenclaw",
+                        img: ravenclaw
+                    },
+                    {
+                        name: "Dhyanam",
+                        house: "Ravenclaw",
+                        img: ravenclaw
+                    },
+                    {
+                        name: "Kush",
+                        house: "Ravenclaw",
+                        img: ravenclaw
+                    },
+                    {
+                        name: "Minesh",
+                        house: "Ravenclaw",
+                        img: ravenclaw
+                    },
+                    {
+                        name: "Prem",
+                        house: "Ravenclaw",
+                        img: ravenclaw
+                    },
+                    {
+                        name: "Shanay",
+                        house: "Ravenclaw",
+                        img: ravenclaw
+                    },
+                    {
+                        name: "Dhawani J",
+                        house: "Ananya",
+                        img: ravenclaw
+                    },
+                    {
+                        name: "Jiya",
+                        house: "Ravenclaw",
+                        img: ravenclaw
+                    },
+                    {
+                        name: "Vrinda",
+                        house: "Ravenclaw",
+                        img: ravenclaw
+                    },
+                    {
+                        name: "Khushi",
+                        house: "Ravenclaw",
+                        img: ravenclaw
+                    },
+                    {
+                        name: "Krisha",
+                        house: "Ravenclaw",
+                        img: ravenclaw
                     }
+                    
                 ];
                 const filterArray = data.filter(
                     singleData =>
