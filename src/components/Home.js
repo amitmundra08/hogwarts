@@ -37,30 +37,7 @@ class Home extends React.Component {
                     <div style={backgroundImage}>
                         {this.state.showWelcomeThings ? (
                             <div>
-                                <img
-                                    src={dubmledoreImage}
-                                    style={{
-                                        height: "200px",
-                                        width: "200px",
-                                        position: "absolute",
-                                        right: 80,
-                                        top: 80,
-                                        borderRadius: 8
-                                    }}
-                                    alt="image"
-                                />
-                                <img
-                                    src={grifyImage}
-                                    style={{
-                                        height: "200px",
-                                        width: "200px",
-                                        position: "absolute",
-                                        bottom: 80,
-                                        left: 80,
-                                        borderRadius: 8
-                                    }}
-                                    alt="image"
-                                />
+                                
                                 <p>Welcome to hogwarts</p>
                                 <p>
                                     Whether you come back by page or by the big
