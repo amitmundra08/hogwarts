@@ -53,7 +53,7 @@ class GamePage extends Component {
                     {
                         name: "Lokesh Daga",
                         house: "Slytherin",
-                        img: huffflepuff
+                        img: slytherin
                     },
                     {
                         name: "Abhishek",
