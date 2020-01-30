@@ -56,42 +56,42 @@ class GamePage extends Component {
                         img: slytherin
                     },
                     {
-                        name: "Abhishek",
+                        name: "Abhishek L",
                         house: "Gryffindor",
                         img: gryfindor
                     },
                     {
-                        name: "Aadi",
+                        name: "Aadi B",
                         house: "Gryffindor",
                         img: gryfindor
                     },
                     {
-                        name: "Darshan",
+                        name: "Darshan P",
                         house: "Gryffindor",
                         img: gryfindor
                     },
                     {
-                        name: "Foram",
+                        name: "Foram S",
                         house: "Gryffindor",
                         img: gryfindor
                     },
                     {
-                        name: "Laksh",
+                        name: "Laksh D",
                         house: "Gryffindor",
                         img: gryfindor
                     },
                     {
-                        name: "Shaan",
+                        name: "Shaan P",
                         house: "Gryffindor",
                         img: gryfindor
                     },
                     {
-                        name: "Ved",
+                        name: "Ved R",
                         house: "Gryffindor",
                         img: gryfindor
                     },
                     {
-                        name: "Heer",
+                        name: "Heer D",
                         house: "Gryffindor",
                         img: gryfindor
                     },
@@ -101,22 +101,22 @@ class GamePage extends Component {
                         img: gryfindor
                     },
                     {
-                        name: "Milonee",
+                        name: "Milonee J",
                         house: "Gryffindor",
                         img: gryfindor
                     },
                     {
-                        name: "Sneha",
+                        name: "Sneha D",
                         house: "Gryffindor",
                         img: gryfindor
                     },
                     {
-                        name: "Yashvi",
+                        name: "Yashvi J",
                         house: "Gryffindor",
                         img: gryfindor
                     },
                     {
-                        name: "Pal",
+                        name: "Pal C",
                         house: "Gryffindor",
                         img: gryfindor
                     },
