@@ -121,17 +121,17 @@ class GamePage extends Component {
                         img: gryfindor
                     },
                     {
-                        name: "Dyash",
+                        name: "Dyash K",
                         house: "Slytherin",
                         img: slytherin
                     },
                     {
-                        name: "Harshil",
+                        name: "Harshil M",
                         house: "Slytherin",
                         img: slytherin
                     },
                     {
-                        name: "Nandan",
+                        name: "Nandan C",
                         house: "Slytherin",
                         img: slytherin
                     },
@@ -141,12 +141,12 @@ class GamePage extends Component {
                         img: slytherin
                     },
                     {
-                        name: "Rudraksh",
+                        name: "Rudraksh P",
                         house: "Slytherin",
                         img: slytherin
                     },
                     {
-                        name: "Tathagat",
+                        name: "Tathagat O",
                         house: "Slytherin",
                         img: slytherin
                     },
@@ -161,17 +161,17 @@ class GamePage extends Component {
                         img: slytherin
                     },
                     {
-                        name: "Nandni",
+                        name: "Nandni M",
                         house: "Slytherin",
                         img: slytherin
                     },
                     {
-                        name: "Shrinali",
+                        name: "Shrinali S",
                         house: "Slytherin",
                         img: slytherin
                     },
                     {
-                        name: "Stuti",
+                        name: "Stuti M",
                         house: "Slytherin",
                         img: slytherin
                     },
@@ -181,32 +181,32 @@ class GamePage extends Component {
                         img: slytherin
                     },
                     {
-                        name: "Rutvi",
+                        name: "Rutvi P",
                         house: "Slytherin",
                         img: slytherin
                     },
                     {
-                        name: "Pearl",
+                        name: "Pearl J",
                         house: "Slytherin",
                         img: slytherin
                     },
                     {
-                        name: "Aditya",
+                        name: "Aditya K",
                         house: "Hufflepuff",
                         img: huffflepuff
                     },
                     {
-                        name: "Bhavishya",
+                        name: "Bhavishya R",
                         house: "Hufflepuff",
                         img: huffflepuff
                     },
                     {
-                        name: "Hutarth",
+                        name: "Hutarth N",
                         house: "Hufflepuff",
                         img: huffflepuff
                     },
                     {
-                        name: "Jash",
+                        name: "Jash A",
                         house: "Hufflepuff",
                         img: huffflepuff
                     },
@@ -221,22 +221,22 @@ class GamePage extends Component {
                         img: huffflepuff
                     },
                     {
-                        name: "Vishad",
+                        name: "Vishad J",
                         house: "Hufflepuff",
                         img: huffflepuff
                     },
                     {
-                        name: "Kashvi",
+                        name: "Khushboo M",
                         house: "Hufflepuff",
                         img: huffflepuff
                     },
                     {
-                        name: "Jahaan",
+                        name: "Jahaan J",
                         house: "Hufflepuff",
                         img: huffflepuff
                     },
                     {
-                        name: "Paree",
+                        name: "Paree S",
                         house: "Hufflepuff",
                         img: huffflepuff
                     },
@@ -246,42 +246,42 @@ class GamePage extends Component {
                         img: huffflepuff
                     },
                     {
-                        name: "Viva",
+                        name: "Viva K",
                         house: "Hufflepuff",
                         img: huffflepuff
                     },
                     {
-                        name: "Prapti",
+                        name: "Prapti M",
                         house: "Hufflepuff",
                         img: huffflepuff
                     },
                     {
-                        name: "Dhruvil",
+                        name: "Dhruvil A",
                         house: "Ravenclaw",
                         img: ravenclaw
                     },
                     {
-                        name: "Dhyanam",
+                        name: "Dhyanam V",
                         house: "Ravenclaw",
                         img: ravenclaw
                     },
                     {
-                        name: "Kush",
+                        name: "Kush A",
                         house: "Ravenclaw",
                         img: ravenclaw
                     },
                     {
-                        name: "Minesh",
+                        name: "Minesh P",
                         house: "Ravenclaw",
                         img: ravenclaw
                     },
                     {
-                        name: "Prem",
+                        name: "Prem H",
                         house: "Ravenclaw",
                         img: ravenclaw
                     },
                     {
-                        name: "Shanay",
+                        name: "Shanay P",
                         house: "Ravenclaw",
                         img: ravenclaw
                     },
@@ -291,22 +291,22 @@ class GamePage extends Component {
                         img: ravenclaw
                     },
                     {
-                        name: "Jiya",
+                        name: "Jiya V",
                         house: "Ravenclaw",
                         img: ravenclaw
                     },
                     {
-                        name: "Vrinda",
+                        name: "Vrinda D",
                         house: "Ravenclaw",
                         img: ravenclaw
                     },
                     {
-                        name: "Khushi",
+                        name: "Khushi R",
                         house: "Ravenclaw",
                         img: ravenclaw
                     },
                     {
-                        name: "Krisha",
+                        name: "Krisha F",
                         house: "Ravenclaw",
                         img: ravenclaw
                     }
