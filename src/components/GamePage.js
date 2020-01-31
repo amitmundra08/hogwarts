@@ -314,7 +314,7 @@ class GamePage extends Component {
                         name: "Ananya G",
                         house: "Ravenclaw",
                         img: ravenclaw
-                    }
+                    },
                     
                 ];
                 const filterArray = data.filter(
