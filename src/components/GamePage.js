@@ -46,7 +46,7 @@ class GamePage extends Component {
             if (name && name.length > 0) {
                 const data = [
                     {
-                        name: "Ankur M",
+                        name: "Ankur",
                         house: "Gryffindor",
                         img: gryfindor
                     },
