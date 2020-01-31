@@ -176,7 +176,7 @@ class GamePage extends Component {
                         img: slytherin
                     },
                     {
-                        name: "Nirva",
+                        name: "Nirva P",
                         house: "Slytherin",
                         img: slytherin
                     },
@@ -286,7 +286,7 @@ class GamePage extends Component {
                         img: ravenclaw
                     },
                     {
-                        name: "Dhwani J",
+                        name: "Dhvani J",
                         house: "Ravenclaw",
                         img: ravenclaw
                     },
